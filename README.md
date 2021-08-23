@@ -7,4 +7,4 @@ Impact of Short Video Platforms in Social Media, an analysis for Social and Info
 
 Progressive Web App - Simple Music player based on JQuery Carousel, HTML5/CSS, a project for Internet and Web Programming class
 
-NFS on CentOS - A comprehensive guide to mimicking DHCP and running a Network File System with two machines in the same Virtual Machine using CentOS
+NFS on CentOS - A comprehensive guide to mimicking DHCP and running a Network File System with two machines in the same Virtual Machine using CentOS - Video here https://www.youtube.com/watch?v=oaD2Ct4NAks
